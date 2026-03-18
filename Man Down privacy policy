@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy - Man Down</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 900px;
+            margin: 40px auto;
+            padding: 0 20px;
+            line-height: 1.6;
+            color: #333;
+        }
+        h1, h2 {
+            color: #111;
+        }
+        h1 {
+            border-bottom: 2px solid #eee;
+            padding-bottom: 10px;
+        }
+        ul {
+            margin-left: 20px;
+        }
+        .section {
+            margin-top: 30px;
+        }
+        .footer {
+            margin-top: 50px;
+            font-size: 0.9em;
+            color: #666;
+        }
+    </style>
+</head>
+<body>
+
+<h1>Privacy Policy - Man Down</h1>
+<p><strong>Last update:</strong> March 2026</p>
+
+<div class="section">
+<h2>Introduction</h2>
+<p>
+This Privacy Policy describes how the Man Down application processes and protects user data when installed on devices compatible with the Garmin Connect IQ platform.
+</p>
+<p>
+The application provides a Man-Down monitoring system designed to detect falls or emergency situations and to notify a remote monitoring operator.
+</p>
+<p>
+The system has been designed according to privacy by design and data minimization principles, in line with the General Data Protection Regulation (GDPR).
+</p>
+</div>
+
+<div class="section">
+<h2>Data Collected</h2>
+<ul>
+<li><strong>Motion data:</strong> Accelerometer measurements</li>
+<li><strong>Physiological data:</strong> Heart rate</li>
+<li><strong>Location data:</strong> GPS position</li>
+<li><strong>Device-related data:</strong> Device identifier</li>
+<li><strong>Application status data:</strong> Monitoring status, alarm status, system diagnostic information</li>
+</ul>
+
+<p>The application does not collect personal identifiers such as:</p>
+<ul>
+<li>Name</li>
+<li>Email address</li>
+<li>Phone number</li>
+<li>Contacts</li>
+<li>Calendar information</li>
+</ul>
+</div>
+
+<div class="section">
+<h2>Purpose of Data Processing</h2>
+<ul>
+<li>Detection of potential critical events (fall/prolonged immobility)</li>
+<li>Monitoring of abnormal physiological conditions</li>
+<li>Emergency alert management</li>
+<li>Transmission of emergency information to a monitoring service</li>
+<li>System validation and performance optimization, only where explicitly consented by the user</li>
+</ul>
+
+<p>Data are not used for advertising, marketing, or user profiling.</p>
+</div>
+
+<div class="section">
+<h2>Data Transmission</h2>
+<p>
+Some data may be transmitted from the smartwatch, through the Garmin Connect mobile application, to a remote server infrastructure.
+</p>
+
+<ul>
+<li>Device identifier</li>
+<li>GPS location</li>
+<li>Heart rate</li>
+<li>Monitoring status</li>
+<li>Alarm events</li>
+</ul>
+
+<p>
+Accelerometer data may be transmitted for algorithm validation purposes only where the user has explicitly provided consent.
+</p>
+
+<p>
+All communications are performed using secure network protocols (TLS/HTTPS).
+</p>
+</div>
+
+<div class="section">
+<h2>Local Data Storage</h2>
+<p>
+The application performs limited local persistent storage only when data transmission to the remote server is not successful.
+</p>
+
+<ul>
+<li>Undelivered event messages</li>
+</ul>
+
+<p>
+Data are automatically deleted once successfully transmitted and are not stored continuously or redundantly.
+</p>
+</div>
+
+<div class="section">
+<h2>Remote Data Processing</h2>
+<p>
+When the system is connected to the internet via the Garmin Connect mobile application, selected data may be transmitted to a remote server to support:
+</p>
+
+<ul>
+<li>Emergency monitoring</li>
+<li>Incident analysis</li>
+<li>System performance improvement (only where explicitly consented by the user)</li>
+</ul>
+
+<p>
+Location data may be periodically acquired and transmitted by the application to maintain an up-to-date estimate of the user’s position.
+</p>
+
+<p>
+This approach allows the system to provide the most accurate available location in the event of a detected fall or a manually triggered SOS alert, including scenarios where a real-time GPS fix may not be immediately available.
+</p>
+
+<p>
+Outside emergency conditions, location data are transmitted but not persistently stored or further processed, and are not used for tracking or profiling purposes.
+</p>
+
+<p>
+Persistent storage and processing of location data occur only in relation to confirmed emergency events.
+</p>
+
+<p>
+Access to monitoring data is restricted to authorized personnel.
+</p>
+</div>
+
+<div class="section">
+<h2>Data Security</h2>
+<ul>
+<li>Encrypted communication channels (HTTPS/TLS)</li>
+<li>Access control mechanisms</li>
+<li>Data minimization principles</li>
+</ul>
+</div>
+
+<div class="section">
+<h2>User Rights</h2>
+<ul>
+<li>Access to their data</li>
+<li>Deletion of stored data</li>
+<li>Withdrawal of consent for optional data processing</li>
+</ul>
+
+<p>
+Requests can be sent to the contact address listed below.
+</p>
+</div>
+
+<div class="section">
+<h2>Changes to this Policy</h2>
+<p>
+This Privacy Policy may be updated to reflect system improvements or regulatory requirements.
+</p>
+</div>
+
+<div class="section">
+<h2>Contact</h2>
+<p>
+Sleep Advice Technologies S.r.l<br>
+Via Agostino da Montefeltro, 2, 10134 Torino (TO), Italy<br>
+Email: support@satechnologies.eu
+</p>
+</div>
+
+<div class="footer">
+<p>© Sleep Advice Technologies S.r.l.</p>
+</div>
+
+</body>
+</html>
